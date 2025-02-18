@@ -1,0 +1,435 @@
+12:37:19.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\crossbrowsertest.xml
+
+12:37:27.797 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+12:37:27.855 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+12:37:28.134 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+12:37:28.151 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+12:37:29.539 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+12:37:29.539 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+12:37:29.553 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+12:37:29.553 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+12:37:32.362 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+12:37:32.473 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+12:37:32.473 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+12:37:32.575 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+12:37:34.486 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+12:37:34.588 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+12:37:38.101 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+12:37:38.444 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+12:37:38.992 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+12:37:38.993 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+12:37:39.833 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+12:37:39.851 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test case failed
+12:40:02.427 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+12:40:12.664 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+12:40:12.970 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+12:40:13.456 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+12:40:13.459 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+12:40:14.337 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+12:40:14.365 [main] ERROR testCases.TC001_AccountRegistrationTest - Test case failed
+12:41:33.083 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+12:41:43.189 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+12:41:43.516 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+12:41:44.056 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+12:41:44.061 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+12:41:44.940 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+12:41:44.965 [main] ERROR testCases.TC001_AccountRegistrationTest - Test case failed
+12:43:09.378 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+12:43:19.782 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+12:43:20.114 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+12:43:20.714 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+12:43:20.726 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+12:43:21.640 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+12:43:21.675 [main] ERROR testCases.TC001_AccountRegistrationTest - Test case failed
+12:49:39.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+12:49:46.175 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+12:49:46.389 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+12:49:47.743 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+12:49:47.750 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+12:49:49.676 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+12:49:49.758 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+12:49:51.768 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+12:50:12.408 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+12:50:18.296 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+12:50:18.496 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+12:50:19.043 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+12:50:19.046 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+12:50:21.462 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+12:50:21.560 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+12:50:23.575 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+12:51:03.559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+12:51:13.821 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+12:51:14.159 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+12:51:14.979 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+12:51:14.983 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+12:51:15.842 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+12:51:15.868 [main] ERROR testCases.TC001_AccountRegistrationTest - Test case failed
+17:02:37.320 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+17:02:45.866 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+17:02:46.109 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+17:02:46.747 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+17:02:46.754 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+17:02:48.849 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+17:02:49.007 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+17:02:51.021 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+17:02:58.932 [main] INFO  testCases.TC002_LoginPageTest - Starting TC001_AccountRegistrationTest
+17:02:59.094 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+17:02:59.717 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+18:31:51.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+18:31:59.551 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+18:31:59.812 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+18:32:00.326 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+18:32:01.728 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials
+18:32:01.835 [main] INFO  testCases.TC002_LoginPageTest - Login Page Displayed
+18:32:01.835 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+19:57:04.551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+19:59:26.959 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+19:59:37.579 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+19:59:37.840 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+19:59:38.320 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+19:59:39.822 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+19:59:40.457 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+19:59:40.479 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+19:59:40.675 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+19:59:41.173 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+19:59:42.405 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+19:59:42.460 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+19:59:42.471 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+19:59:42.627 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+19:59:43.195 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+19:59:44.839 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+19:59:45.383 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+19:59:45.391 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+19:59:45.531 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+19:59:45.804 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+19:59:46.713 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+19:59:46.778 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+19:59:46.787 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+19:59:46.949 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+19:59:47.315 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+19:59:49.165 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+19:59:49.886 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+20:19:14.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+20:19:24.751 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+20:19:25.046 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+20:19:25.498 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+20:19:26.714 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+20:19:27.328 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+20:19:27.351 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+20:19:27.518 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+20:19:27.991 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+20:19:28.985 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+20:19:29.155 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+20:19:29.334 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+20:19:29.710 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+20:19:30.787 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+20:19:31.504 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+20:19:31.711 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+20:19:32.141 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+20:19:33.132 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+20:19:33.259 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+20:19:33.283 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+20:19:33.516 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+20:19:33.964 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+20:19:34.856 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+20:19:35.476 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+13:55:30.770 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\grouping.xml
+
+13:55:45.425 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+13:55:45.662 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+13:55:46.123 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+13:55:47.233 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+13:55:47.400 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+13:55:47.401 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+23:18:43.829 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\grouping.xml
+
+23:18:53.356 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+23:18:53.628 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+23:18:54.412 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+23:18:54.428 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+23:18:56.846 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+23:18:57.008 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+23:18:59.023 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+23:19:07.110 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+23:19:07.285 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+23:19:07.726 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+23:19:08.802 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+23:19:08.989 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+23:19:08.989 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+23:26:59.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\grouping.xml
+
+23:27:08.706 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+23:27:08.993 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+23:27:09.602 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+23:27:09.607 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+23:27:11.289 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+23:27:11.427 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+23:27:13.429 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+23:27:18.770 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+23:27:18.977 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+23:27:19.568 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+23:27:20.480 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+23:38:31.738 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\test-output\testng-failed.xml
+
+23:38:40.109 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+23:38:40.411 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+23:38:40.942 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+23:38:42.274 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+23:38:42.491 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+23:38:42.492 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+23:38:03.794 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+23:38:15.870 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+23:38:16.268 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+23:38:16.911 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+23:38:18.256 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+23:38:19.055 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+23:38:19.089 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+23:38:19.379 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+23:38:19.903 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+23:38:21.172 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+23:38:21.368 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+23:38:21.599 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+23:38:21.963 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+23:38:23.563 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+23:38:24.268 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+23:38:24.583 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+23:38:25.103 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+23:38:26.334 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+23:38:26.534 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+23:38:26.545 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+23:38:26.823 [main] INFO  testCases.TC003_LoginDDT - clicked MyAccount
+23:38:27.174 [main] INFO  testCases.TC003_LoginDDT - clicked LoginLink
+23:38:28.526 [main] INFO  testCases.TC003_LoginDDT - Entered login credentials in login page
+23:38:29.414 [main] INFO  testCases.TC003_LoginDDT - Completed TC003_LoginDDT
+23:45:16.208 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+23:45:25.597 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+23:45:26.041 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+23:45:27.033 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+23:45:28.489 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+23:45:28.624 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+23:45:28.625 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+23:46:40.716 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+23:46:48.963 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+23:46:49.482 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+23:46:50.175 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+23:46:51.468 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+23:46:51.655 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+23:46:51.655 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+23:48:10.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\grouping.xml
+
+23:48:19.454 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+23:48:19.782 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+23:48:20.540 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+23:48:20.557 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+23:48:23.049 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+23:48:23.182 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+23:48:25.194 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+23:48:31.478 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+23:48:31.864 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+23:48:32.403 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+23:48:33.555 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+23:48:33.677 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+23:48:33.677 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+23:57:01.355 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\crossbrowsertest.xml
+
+23:57:01.825 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+23:57:08.506 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+23:57:09.028 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+23:57:10.331 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+23:57:10.338 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+23:57:12.771 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+00:00:22.549 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\crossbrowsertest.xml
+
+00:00:31.626 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+00:00:31.628 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+00:00:31.848 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+00:00:32.011 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+19:53:02.379 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\master.xml
+
+19:53:23.354 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+19:53:23.978 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+19:53:25.303 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+19:53:27.395 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+19:53:27.760 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+19:53:27.760 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+19:55:14.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\crossbrowsertest.xml
+
+19:55:44.450 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+19:55:44.929 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+19:55:52.051 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+19:55:52.065 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+19:55:54.772 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+19:55:54.835 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test case failed
+20:04:24.268 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\gridtest.xml
+
+20:04:47.795 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+20:04:48.351 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+20:04:51.373 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+20:04:51.386 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+20:04:55.312 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+20:04:55.735 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+20:04:57.751 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+20:05:02.828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\gridtest.xml
+
+20:05:19.898 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+20:05:20.858 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+20:05:24.776 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+20:05:24.813 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+20:05:30.865 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+20:05:31.264 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+20:05:33.267 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+20:05:41.293 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+20:05:41.765 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+20:05:42.573 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+20:05:44.774 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+20:05:45.516 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+20:05:45.518 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+20:06:12.716 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+20:06:13.117 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+20:06:13.941 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+20:06:15.807 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+20:06:16.255 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+20:06:16.255 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+22:04:30.978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\gridtest.xml
+
+22:04:49.171 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+22:04:51.134 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+22:04:53.225 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+22:04:53.268 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+22:04:58.938 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+22:04:59.366 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+22:05:01.378 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+22:05:28.401 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+22:05:28.834 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+22:05:29.689 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+22:05:31.513 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+22:05:31.995 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+22:05:31.995 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+22:07:01.869 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kavya\eclipse-workspace\OpencartV1.2\src\test\java\testCases\gridtest.xml
+
+22:07:13.292 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+22:07:13.945 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+22:07:15.207 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+22:07:15.220 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+22:07:19.098 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+22:07:19.375 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+22:07:21.385 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+22:07:41.499 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+22:07:41.936 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+22:07:42.770 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+22:07:44.498 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+22:07:44.917 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+22:07:44.918 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+19:59:42.856 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+19:59:43.138 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+19:59:43.707 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+19:59:45.328 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+19:59:45.478 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+19:59:45.478 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+20:03:29.176 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+20:03:29.715 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+20:03:30.466 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+20:03:30.482 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+20:03:32.920 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+20:03:33.069 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+20:03:35.080 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+20:03:40.626 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+20:03:40.859 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+20:03:41.713 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+20:03:43.597 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+20:03:43.719 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+20:03:43.719 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+20:59:37.293 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+20:59:37.608 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+20:59:38.526 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+20:59:38.534 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+20:59:41.563 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+20:59:41.687 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+20:59:43.691 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+20:59:51.958 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+20:59:52.274 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+20:59:52.953 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+20:59:54.385 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+20:59:54.480 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+20:59:54.481 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+11:26:07.308 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+11:26:07.557 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+11:26:08.110 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+11:26:08.117 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+11:26:10.014 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+11:26:10.068 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+11:26:12.078 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+11:26:17.002 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+11:26:17.157 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+11:26:17.586 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+11:26:18.806 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+11:26:18.943 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+11:26:18.943 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+11:36:48.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+11:36:48.647 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+11:36:49.569 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+11:36:49.580 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+11:36:56.662 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+11:36:56.747 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+11:36:58.760 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+11:37:05.887 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+11:37:06.169 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+11:37:06.760 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+11:37:08.028 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+11:37:08.214 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+11:37:08.214 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
+11:55:02.444 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+11:55:02.731 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked MyAccount
+11:55:04.054 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register
+11:55:04.059 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering customer details
+11:55:07.145 [main] INFO  testCases.TC001_AccountRegistrationTest - validating test msg
+11:55:07.240 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Case passed
+11:55:09.253 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+11:55:16.456 [main] INFO  testCases.TC002_LoginPageTest - Starting TC002_LoginPageTest
+11:55:16.705 [main] INFO  testCases.TC002_LoginPageTest - clicked MyAccount
+11:55:17.549 [main] INFO  testCases.TC002_LoginPageTest - clicked Login
+11:55:18.627 [main] INFO  testCases.TC002_LoginPageTest - Entered login credentials in login page
+11:55:18.788 [main] INFO  testCases.TC002_LoginPageTest - My Account Page Displayed
+11:55:18.789 [main] INFO  testCases.TC002_LoginPageTest - Completed TC002_LoginPageTest
